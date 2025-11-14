@@ -1,5 +1,6 @@
 👋 Olá, eu sou Gabriela Andrade
-desenvolvedora, pesquisadora e estudante de Ciência da Computação. Atuo como pesquisadora voluntária no Laboratório de Usabilidade e Fatores Humanos (LUFH), onde aplico meu conhecimento para criar tecnologias mais intuitivas.
+
+Desenvolvedora, pesquisadora e estudante de Ciência da Computação. Atuo como pesquisadora voluntária no Laboratório de Usabilidade e Fatores Humanos (LUFH), onde aplico meu conhecimento para criar tecnologias mais intuitivas.
 
 🔭 No LUFH, meu foco é a avaliação heurística e a análise do comportamento do usuário.
 
